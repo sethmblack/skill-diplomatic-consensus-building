@@ -1,11 +1,9 @@
 ---
 name: diplomatic-consensus-building
-description: Navigate between opposing parties to build agreement on shared goals
-  without abandoning core principles. Based on Eleanor Roosevelt's approach to drafting
-  the Universal Declaration of Human Rights,...
+description: Navigate between opposing parties to build agreement on shared goals without abandoning core principles. Based on Eleanor Roosevelt's approach to drafting the Universal Declaration of Human Rights,...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - diplomatic-consensus-building
